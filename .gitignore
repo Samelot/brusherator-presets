@@ -2,3 +2,7 @@
 !.gitignore
 !sampleShelf/
 !sampleShelf/*
+!sampleShelf/brushPreviews/
+!sampleShelf/brushPreviews/*
+!sampleShelf/brushThumbnails/
+!sampleShelf/brushThumbnails/*
